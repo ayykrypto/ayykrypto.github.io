@@ -1,0 +1,45 @@
+body {
+	background-color: #C2F0FF;
+
+}
+
+h1 {
+	color: blue;
+}
+.tip {
+	color: navy;
+	font-weight: bolder;
+}
+.b {
+	text-indent: 20px;
+}
+.a {
+	list-style-type: circle;
+	text-indent: 30px;
+}
+
+.slike{
+	color: navy;
+	font-weight: bold;
+}
+
+.obicni{
+	color: blue;
+}
+
+.links{
+	font-weight: bolder;
+}
+
+.ital{
+	font-style: italic;
+}
+
+.tablica{
+	border-color: navy;
+}
+
+.linkoviboja{
+	color: green;
+	font-weight: bolder;
+}
